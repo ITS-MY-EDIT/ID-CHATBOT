@@ -1,11 +1,5 @@
 
 
-</h2>
-<p align="center">
-  <img src="https://graph.org/file/ae479d362c7b3d8e2396c.jpg">
-</p>
-
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
